@@ -1,0 +1,50 @@
+body {
+  background: url(images/psicologia2.jpg);
+  image-resolution: from-image 300dpi;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: relative;
+}
+
+.body3{
+  background: url(images/psico3.webp);
+  image-resolution: from-image 300dpi;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: relative;
+}
+
+.body4{
+  background: url(images/sonrie.webp);
+  image-resolution: from-image 300dpi;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: relative;
+}
+
+#login-box {
+  position: relative;
+  width: 65%;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 15px;
+  background: #00000080;
+  padding: 20px 50px;
+}
+
+#login-box p {
+  position: relative;
+  top: 10px;
+}
+
+#login-box button {
+    border: 0;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(to right, rgb(115, 133, 150) 0%, rgb(43, 86, 136) 100%);
+
+}
+
+
+
+
